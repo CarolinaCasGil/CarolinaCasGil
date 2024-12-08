@@ -13,9 +13,9 @@
 <hr>
 
 ### 🚀 Un poco sobre mí  
-<p>Soy <strong>Desarrolladora de Aplicaciones Multiplataforma</strong> con experiencia en programación, desarrollo de software y gestión de proyectos tecnológicos.</p>
-<p>Apasionada por la tecnología, estoy en constante aprendizaje y me encanta trabajar con herramientas modernas para crear soluciones innovadoras que impacten positivamente en el mundo real.</p>
-<p>Aunque me interesa explorar todas las ramas de la informática, tengo un especial interés en áreas como el <strong>Frontend</strong>, la <strong>Inteligencia Artificial</strong>, el <strong>Big Data</strong> y el <strong>Análisis de Datos</strong>.</p>
+<p align="center">Soy <strong>Desarrolladora de Aplicaciones Multiplataforma</strong> con experiencia en programación, desarrollo de software y gestión de proyectos tecnológicos.
+  Apasionada por la tecnología, estoy en constante aprendizaje y me encanta trabajar con herramientas modernas para crear soluciones innovadoras que impacten positivamente en el mundo real.</p>
+<p align="center">Aunque me interesa explorar todas las ramas de la informática, tengo un especial interés en áreas como el <strong>Frontend</strong>, la <strong>Inteligencia Artificial</strong>, el <strong>Big Data</strong> y el <strong>Análisis de Datos</strong>.</p>
 
 <hr>
 
