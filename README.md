@@ -2,34 +2,32 @@
 
 ### 📫 ¡Conecta conmigo!  
 <p align="center">
-  <a href="mailto:soycarolinacastillo@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="margin: 0 30px;"/>
+  <a href="mailto:soycarolinacastillo@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/carolina-castillo-gil-48462330b/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 30px;"/>
-  </a>
-  <a href="tel:+34640899456" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Teléfono" style="margin: 0 30px;"/>
+  <a href="https://www.linkedin.com/in/carolina-castillo-gil-48462330b/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
 
----
+<hr>
 
 ### 🚀 Un poco sobre mí  
-Soy **Desarrolladora de Aplicaciones Multiplataforma** con experiencia en programación, desarrollo de software y gestión de proyectos tecnológicos.  
-Apasionada por la tecnología, estoy en constante aprendizaje y me encanta trabajar con herramientas modernas para crear soluciones innovadoras que impacten positivamente en el mundo real.  
+<p>Soy <strong>Desarrolladora de Aplicaciones Multiplataforma</strong> con experiencia en programación, desarrollo de software y gestión de proyectos tecnológicos.</p>
+<p>Apasionada por la tecnología, estoy en constante aprendizaje y me encanta trabajar con herramientas modernas para crear soluciones innovadoras que impacten positivamente en el mundo real.</p>
+<p>Aunque me interesa explorar todas las ramas de la informática, tengo un especial interés en áreas como el <strong>Frontend</strong>, la <strong>Inteligencia Artificial</strong>, el <strong>Big Data</strong> y el <strong>Análisis de Datos</strong>.</p>
 
-Aunque me interesa explorar todas las ramas de la informática, tengo un especial interés en áreas como el **Frontend**, la **Inteligencia Artificial**, el **Big Data** y el **Análisis de Datos**.  
-
----
+<hr>
 
 ### 🌟 Habilidades personales  
-✔️ Trabajo en equipo y liderazgo.  
-✔️ Organización y planificación.  
-✔️ Resiliencia.  
-✔️ Perseverancia y autoexigencia.  
+<ul>
+  <li>✔️ Trabajo en equipo y liderazgo.</li>
+  <li>✔️ Organización y planificación.</li>
+  <li>✔️ Resiliencia.</li>
+  <li>✔️ Perseverancia y autoexigencia.</li>
+</ul>
 
----
+<hr>
 
 ### 💻 Habilidades técnicas  
 <div align="center">
