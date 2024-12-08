@@ -2,16 +2,17 @@
 
 ### 📫 ¡Conecta conmigo!  
 <p align="center">
-  <a href="mailto:soycarolinacastillo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:soycarolinacastillo@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="margin: 0 15px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/carolina-castillo-gil-48462330b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/carolina-castillo-gil-48462330b/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 15px;"/>
   </a>
-  <a href="tel:+34640899456">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Teléfono"/>
+  <a href="tel:+34640899456" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Teléfono" style="margin: 0 15px;"/>
   </a>
 </p>
+<br>
 
 ---
 
