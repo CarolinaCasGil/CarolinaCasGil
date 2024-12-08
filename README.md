@@ -2,19 +2,16 @@
 
 ### 📫 ¡Conecta conmigo!  
 <p align="center">
-  <div style="display: flex; justify-content: center; ">
-    <a href="mailto:soycarolinacastillo@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/carolina-castillo-gil-48462330b/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="tel:+34640899456">
-      <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Teléfono"/>
-    </a>
-  </div>
+  <a href="mailto:soycarolinacastillo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carolina-castillo-gil-48462330b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="tel:+34640899456">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Teléfono"/>
+  </a>
 </p>
-<br>
 
 ---
 
