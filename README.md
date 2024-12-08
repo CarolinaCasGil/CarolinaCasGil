@@ -1,19 +1,18 @@
 <h1 align="center" style="font-size: 2.5em;">✨ Hola, soy Carolina Castillo Gil ✨</h1>
 
-
-
 ### 📫 ¡Conecta conmigo!  
 <p align="center">
   <a href="mailto:soycarolinacastillo@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="margin: 0 15px;"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="margin: 0 20px;"/>
   </a>
   <a href="https://www.linkedin.com/in/carolina-castillo-gil-48462330b/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 15px;"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 20px;"/>
   </a>
   <a href="tel:+34640899456" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Teléfono" style="margin: 0 15px;"/>
+    <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Teléfono" style="margin: 0 20px;"/>
   </a>
 </p>
+<br><br>
 
 ---
 
@@ -23,13 +22,19 @@ Apasionada por la tecnología, estoy en constante aprendizaje y me encanta traba
 
 Aunque me interesa explorar todas las ramas de la informática, tengo un especial interés en áreas como el **Frontend**, la **Inteligencia Artificial**, el **Big Data** y el **Análisis de Datos**.  
 
+<br><br>
+
 ---
 
 ### 🌟 Habilidades personales  
-✔️ Trabajo en equipo y liderazgo.  
-✔️ Organización y planificación.  
-✔️ Resiliencia.  
-✔️ Perseverancia y autoexigencia.  
+<p align="left" style="font-size: 16px; line-height: 1.8;">
+  ✔️ Trabajo en equipo y liderazgo.  
+  <br>✔️ Organización y planificación.  
+  <br>✔️ Resiliencia.  
+  <br>✔️ Perseverancia y autoexigencia.
+</p>
+
+<br><br>
 
 ---
 
@@ -41,6 +46,3 @@ Aunque me interesa explorar todas las ramas de la informática, tengo un especia
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin-right: 20px;"/>
 </div>
-
-
-
