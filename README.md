@@ -3,16 +3,16 @@
 ### 📫 ¡Conecta conmigo!  
 <p align="center">
   <a href="mailto:soycarolinacastillo@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="margin: 0 20px;"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="margin: 0 15px;"/>
   </a>
   <a href="https://www.linkedin.com/in/carolina-castillo-gil-48462330b/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 20px;"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 15px;"/>
   </a>
   <a href="tel:+34640899456" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Teléfono" style="margin: 0 20px;"/>
+    <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Teléfono" style="margin: 0 15px;"/>
   </a>
 </p>
-<br><br>
+<br>
 
 ---
 
@@ -22,19 +22,13 @@ Apasionada por la tecnología, estoy en constante aprendizaje y me encanta traba
 
 Aunque me interesa explorar todas las ramas de la informática, tengo un especial interés en áreas como el **Frontend**, la **Inteligencia Artificial**, el **Big Data** y el **Análisis de Datos**.  
 
-<br><br>
-
 ---
 
 ### 🌟 Habilidades personales  
-<p align="left" style="font-size: 16px; line-height: 1.8;">
-  ✔️ Trabajo en equipo y liderazgo.  
-  <br>✔️ Organización y planificación.  
-  <br>✔️ Resiliencia.  
-  <br>✔️ Perseverancia y autoexigencia.
-</p>
-
-<br><br>
+✔️ Trabajo en equipo y liderazgo.  
+✔️ Organización y planificación.  
+✔️ Resiliencia.  
+✔️ Perseverancia y autoexigencia.  
 
 ---
 
