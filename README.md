@@ -1,26 +1,17 @@
 <h1 align="center" style="font-size: 2.5em;">✨ Hola, soy Carolina Castillo Gil ✨</h1>
-
+  
 ### 📫 ¡Conecta conmigo!  
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-  <a href="mailto:soycarolinacastillo@gmail.com" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #D14836; color: white; padding: 12px 24px; border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-weight: bold; display: flex; align-items: center; gap: 10px;">
-      <img src="https://img.icons8.com/material-outlined/24/ffffff/gmail-new.png" alt="Email" />
-      Email
-    </div>
+<p align="center">
+  <a href="mailto:soycarolinacastillo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/carolina-castillo-gil-48462330b/" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #0077B5; color: white; padding: 12px 24px; border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-weight: bold; display: flex; align-items: center; gap: 10px;">
-      <img src="https://img.icons8.com/material-outlined/24/ffffff/linkedin.png" alt="LinkedIn" />
-      LinkedIn
-    </div>
+  <a href="https://www.linkedin.com/in/carolina-castillo-gil-48462330b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="tel:+34640899456" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #25D366; color: white; padding: 12px 24px; border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); font-weight: bold; display: flex; align-items: center; gap: 10px;">
-      <img src="https://img.icons8.com/material-outlined/24/ffffff/phone.png" alt="Teléfono" />
-      Teléfono
-    </div>
+  <a href="tel:+34640899456">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Teléfono"/>
   </a>
-</div>
+</p>
 <br>
 
 ---
